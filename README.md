@@ -151,13 +151,6 @@ Target-SQL-Project/
 │
 ├── README.md
 ├── Target_SQL_Project_Report.pdf
-├── SQL_Queries.sql
-├── Images/
-│   ├── Order_Trend.png
-│   ├── Customer_Distribution.png
-│   └── Freight_Analysis.png
-```
-
 ---
 
 ## Skills Demonstrated
